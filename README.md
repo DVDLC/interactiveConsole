@@ -1,4 +1,4 @@
-# Temas de esta sección
+# Consola interactiva
 
 El objetivo es crear una aplicación de consola interactiva, con opciones que se puedan seleccionar con las teclas direccionales, números y con la tecla espaciadora cuando hay multiples opciones.
 Puntualmente sería:
