@@ -1,0 +1,17 @@
+{
+  "name": "04-consolainteractiva",
+  "version": "1.0.0",
+  "description": "The objective is to create an interactive console application, with options that can be selected with the arrow keys, numbers and with the space key when there are multiple options.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.0",
+    "nanoid": "^3.2.0"
+  }
+}
