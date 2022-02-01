@@ -1,13 +1,14 @@
-# Consola interactiva
+# Interactive console using NodeJS
 
-El objetivo es crear una aplicación de consola interactiva, con opciones que se puedan seleccionar con las teclas direccionales, números y con la tecla espaciadora cuando hay multiples opciones.
-Puntualmente sería:
+My goal was to create an interactive console application, with options that can be selected with the arrow keys, numbers and with the space key when there are multiple options.
+
+I used and learned these topics:
 
 1. stdin
 2. stdout
-3. Ciclos
+3. loops
 4. Inquirer
-5. Clases en JavaScript
-6. Archivos JSON
-7. Fuertemente async y await
-8. Transformaciones
+5. JavaScript class
+6. JSON Files
+7. A lot of async y await
+8. Transformations
